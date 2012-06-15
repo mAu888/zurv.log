@@ -1,0 +1,1 @@
+zurv.log provides a basic logging framework for php. You may add multiple streams to the logger, each handling different log levels.
